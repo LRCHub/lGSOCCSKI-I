@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "TOKYO DRIFT",
+  "base_artist": "ONE OR EIGHT",
+  "createdAt": "2026-02-07T11:36:42.148972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TOKYO DRIFT (FAST & FURIOUS)",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/01_TOKYO_DRIFT_(FAST_&_FURIOUS)_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tokyo Drift (Fast And Furious)",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/02_Tokyo_Drift_(Fast_And_Furious)_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tokyo Drift",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/03_Tokyo_Drift_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tokyo Drift (Fast & Furious)",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/04_Tokyo_Drift_(Fast_&_Furious)_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TTokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/05_TTokyo_Drift_(Fast_&_Furious)_-_From__The_Fast_And_The_Furious__Tokyo_Drift__Sou_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tokyo Drift (Fast & Furious) (From \"The Fast And The Furious: Tokyo Drift\" Soundtrack)",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/06_Tokyo_Drift_(Fast_&_Furious)_(From__The_Fast_And_The_Furious__Tokyo_Drift__Sound_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tokyo Drift",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/07_Tokyo_Drift_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tokyo Drift",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/08_Tokyo_Drift_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tokyo Drift",
+      "artist": "Xavier Wulf",
+      "has_synced": true,
+      "path": "select/09_Tokyo_Drift_Xavier_Wulf.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tokyo Drift (Callmearco Remix)",
+      "artist": "Teriyaki Boyz",
+      "has_synced": false,
+      "path": "select/10_Tokyo_Drift_(Callmearco_Remix)_Teriyaki_Boyz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/11_Tokyo_Drift_(Fast_&_Furious)_-_From__The_Fast_And_The_Furious__Tokyo_Drift__Soun_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tokyo Drift (From \"The Fast And The Furious: Tokyo Drift\" Soundtrack)",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/12_Tokyo_Drift_(From__The_Fast_And_The_Furious__Tokyo_Drift__Soundtrack)_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tokyo Drift (Fast & Furious)",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/13_Tokyo_Drift_(Fast_&_Furious)_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Red Roses - LIOHN's Tokyo Drift Remix",
+      "artist": "Lil Skies feat. LIOHN",
+      "has_synced": false,
+      "path": "select/14_Red_Roses_-_LIOHN's_Tokyo_Drift_Remix_Lil_Skies_feat._LIOHN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKYO DRIFT",
+      "artist": "ONE OR EIGHT",
+      "has_synced": false,
+      "path": "select/pl_01_TOKYO_DRIFT_ONE_OR_EIGHT.txt"
+    }
+  ]
+}
